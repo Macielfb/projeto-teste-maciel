@@ -16,5 +16,4 @@ def infracoes():
     elif velocidade > velocidade_maxima + 20:
         print('Levou multa gravissima')
 
-consulta = infracoes()
-print(consulta)        
+infracoes()
